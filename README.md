@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Next Starter Kit
 
 <img alt="Logo" align="right" src="./public/img/logo.png" width="10%" />
@@ -136,3 +137,7 @@ To learn more, take a look at the following resources:
 - [ESLint](https://eslint.org/) - learn about analyzing code with ESLint
 - [Prettier](https://eslint.org/) - learn about formatting code with Prettier
 - [Prettier Extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - a Prettier extension for Visual Studio Code
+=======
+# Next.JS-ChatGPT
+OpenAI API using Next.js, Tailwind CSS, and apideck
+>>>>>>> a8779797c5db8d6bfd78d8a7e7aae796d046d2e0
